@@ -1,4 +1,4 @@
-<b>Projects using Leaflet and Mapbox.</b>
+#Projects using Leaflet and Mapbox.
 
 Live Demos:
 
