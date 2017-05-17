@@ -1,7 +1,7 @@
-Pojects using Leaflet and Mapbox.
+<b>Projects using Leaflet and Mapbox.</b>
 
-Live Demos
+Live Demos:
 
-<a href="https://dhagquist.github.io/Leaflet/latlng.html" target="_blank">Lat/Lon Interactive Map</a>
+- [https://dhagquist.github.io/Leaflet/latlng.html](Lat/Lon Interactive Map)
   
-<a href="https://dhagquist.github.io/Leaflet/us_popden_state_interactive.html" target="_blank">U.S. Population Density Interactive Map</a>
+- [https://dhagquist.github.io/Leaflet/us_popden_state_interactive.html"](U.S. Population Density Interactive Map)
