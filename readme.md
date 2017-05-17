@@ -2,6 +2,6 @@
 
 Live Demos:
 
-- [https://dhagquist.github.io/Leaflet/latlng.html](Lat/Lon Interactive Map)
+- <a href="https://dhagquist.github.io/Leaflet/latlng.html" target="_blank">Latitude/Longitude Interactive Map</a>
   
-- [https://dhagquist.github.io/Leaflet/us_popden_state_interactive.html"](U.S. Population Density Interactive Map)
+- <a href="https://dhagquist.github.io/Leaflet/us_popden_state_interactive.html" target="_blank">U.S. Population Density Interactive Map</a>
